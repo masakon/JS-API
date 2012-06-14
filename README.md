@@ -9,6 +9,11 @@ The point of this API is to provide webmasters an access to services linked to t
 The source code is available for ease of access and debugging. It is useless without its content, so I don't advise you to try to run it.
 
 
+Short-term developement
+
+- Kana/Romaji conversion
+
+
 Future development
 -
 
