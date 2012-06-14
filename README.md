@@ -1,4 +1,4 @@
-JS-API : JapanSensei API
+JS-API : JapanSensei API<br />
 Written by Thierry Bertho <masa@japansensei.com>, 2012
 
 
