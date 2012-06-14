@@ -1,5 +1,5 @@
-JS-API : JapanSensei API<br />
-Written by Thierry Bertho <masa@japansensei.com>, 2012
+JS-API : JapanSensei.com API<br />
+Written by Thierry Bertho - masa@japansensei.com
 
 
 Description
@@ -12,4 +12,4 @@ The source code is available for ease of access and debugging. It is useless wit
 Future development
 -
 
-To allow external websites to use the API, we have two choices. The preferred one is Django (https://www.djangoproject.com/) while the latter one is Apache with mod_wsgi (http://code.google.com/p/modwsgi/).
+- Django integration (https://www.djangoproject.com/)
